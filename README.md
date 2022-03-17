@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+## Creators
+Baptiste Houques - Valentin Budzik
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
